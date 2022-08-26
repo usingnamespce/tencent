@@ -27,3 +27,17 @@ code:
 下面是安卓APK和介绍视频的百度网盘链接；  
 链接：https://pan.baidu.com/s/1Fwhi7k6SFCHsqCiKQnl2ew?pwd=kkbj   
 提取码：kkbj   
+
+下面是第五次基本物理作业的介绍：  
+时间仓促，操作还未移植到安卓平台上  
+操作提示同第四次一样  
+新增拾取武器操作：F键  
+更换脚印形式按键：E键（赤脚-鞋子-动物）
+实现的功能如下：  
+有concrete，blood，wet等物理材质，有不同的摩擦力、踩上会有不同的脚步声，脚印  
+concrete材质不会触发脚印，其它的会，踩在concrete材质上脚印会随着步数的增加，慢慢变浅直至消失  
+发射拋体子弹，直接命中Ai会爆炸（Ai还未增加行走逻辑），或者速度<500发射爆炸  
+
+下面是介绍视频的百度网盘链接：（安卓Apk打包这次出现了问题，还在解决之中）   
+链接：https://pan.baidu.com/s/1vINdwIOASrDhNpg2gAFSQQ?pwd=coc1   
+提取码：coc1   
