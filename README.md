@@ -40,4 +40,10 @@ concrete材质不会触发脚印，其它的会，踩在concrete材质上脚印�
 
 下面是介绍视频的百度网盘链接：（安卓Apk打包这次出现了问题，还在解决之中）   
 链接：https://pan.baidu.com/s/1vINdwIOASrDhNpg2gAFSQQ?pwd=coc1   
-提取码：coc1   
+提取码：coc1  
+
+下面是第六次渲染作业的介绍：  
+场景中两个小球，左边的是随时间变化的材质，右边是bloom材质    
+下面是示例照片百度网盘链接：    
+链接：https://pan.baidu.com/s/10JIe_cqgntLN-d_0UHkHng?pwd=rgku   
+提取码：rgku   
