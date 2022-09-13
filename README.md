@@ -43,7 +43,15 @@ concrete材质不会触发脚印，其它的会，踩在concrete材质上脚印�
 提取码：coc1  
 
 下面是第六次渲染作业的介绍：  
-场景中两个小球，左边的是随时间变化的材质，右边是bloom材质    
+场景中两个小球，左边的是随时间变化的材质，右边是bloom材质（第七次作业我做了资产清理，将这两个材质误删了，请老师看图片）      
 下面是示例照片百度网盘链接：    
 链接：https://pan.baidu.com/s/10JIe_cqgntLN-d_0UHkHng?pwd=rgku   
 提取码：rgku   
+
+下面是第七次网络同步作业的介绍：  
+最大玩家数4个  
+实现了人物的动画/伤害/分数的同步，详细介绍可以看演示视频  
+游戏打击感等待后续完善  
+下面是演示视频和安卓Apk的网盘链接  
+链接：https://pan.baidu.com/s/1MkSBWFQxocdFIfHpdqcbNQ?pwd=xhr3   
+提取码：xhr3   

@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5A4183B6-413E-7C3E-906A-73920E105E0C}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "AssetsCleaner",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3caab7c6e81f449296989122c043ae21"
+		}
+	]
+}
