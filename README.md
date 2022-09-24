@@ -55,3 +55,14 @@ concrete材质不会触发脚印，其它的会，踩在concrete材质上脚印�
 下面是演示视频和安卓Apk的网盘链接  
 链接：https://pan.baidu.com/s/1MkSBWFQxocdFIfHpdqcbNQ?pwd=xhr3   
 提取码：xhr3   
+
+下面是第八次作业AI的介绍：  
+怪物分为Boss与小怪，小怪使用一个同一个ai控制器，Boss使用另一个ai控制器 
+小怪分为：近战，爆炸，远程  
+小怪初始会攻击NPC，被玩家攻击后会转向攻击玩家，直至玩家死亡或者玩家离小怪太远   
+远程小怪会寻找能看到玩家的地方进行攻击（逻辑与最后大作业更符合，与作业稍微不同）     
+Boss有远程与近战的攻击方式，有技能，当玩家离boss较远会变成远程攻击    
+下面是演示视频与安卓APK的连接：  
+链接：https://pan.baidu.com/s/1Upv7abRy2_vNs0J3PV7Qxg?pwd=i3ea   
+提取码：i3ea   
+  
