@@ -38,9 +38,9 @@ Tencent game open class
 1. 小怪随机掉落物品，掉落数量不定，Boss掉落所有物品各一个  
 2. BUFF道具（加血&解除流血)  
 
-### 安卓APK链接：  
-链接：https://pan.baidu.com/s/1uQAgVKtbpXO7xIu6ApMWBA?pwd=3cfb   
-提取码：3cfb    
+### 安卓APK链接以及演示视频(游戏声音有点大，配有字幕)：  
+链接：https://pan.baidu.com/s/1b_SD-4xtcyfuq95GWvtYtQ?pwd=sfhq   
+提取码：sfhq     
 
 
 
